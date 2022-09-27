@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#E91E63</color>
+    <color name="purple_500">@color/blue</color>
+    <color name="purple_700">@color/blue</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="orange">#FFAA68</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="blue">#1E6AFC</color>
+    <color name="green">#13974E</color>
+    <color name="greenL">#31DDB9</color>
+    <color name="red">#D10202</color>
+    //////////////////////////////////
+
+    <color name="colorPrimary">#003700B3</color>
+    <color name="colorPrimaryDark">#58DD9D</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorSendText">#D2FA65</color>
+
+    <color name="purple">#170B3B</color>
+    <color name="dark_blue">#170B3B</color>
+    <color name="btnbackground">#A3A2A2</color>
+    <color name="fadedBlue">#201E6AFC</color>
+    <color name="fadedOrange">#21DF9131</color>
+
+    <color name="skyblue">#2C8FC7</color>
+
+
+    <!--    new Colors-->
+    <color name="light_blue">#5B8EF3</color>
+    <color name="medium_blue">#317DEF</color>
+
+
+    <color name="textcolor1">#4B4B4B</color>
+    <color name="textcolor">#707070</color>
+    <color name="light_grey">#00000029</color>
+    <color name="mid_grey">#0000005C</color>
+    <color name="light1_grey">#CFCECE</color>
+
+
+    <color name="orange_light">#FFA661</color>
+    <color name="orange_btn">#FCAF74</color>
+    <color name="orange_light1">#FFA057</color>
+    <color name="orange1">#FF913B</color>
+    <color name="orange2">#E58B45</color>
+
+    <color name="light_red">#FFA1A2</color>
+
+
+
+    <color name="light_green">#66E6A0</color>
+
+
+    <color name="light_yellow">#FEE578</color>
+    <color name="yellow">#FFA777</color>
+
+    <color name="white30">#4DFFFFFF</color>
+    <color name="disablecolor">#A1A1A1</color>
+    <color name="card_green">#296857</color>
+    <color name="_success">#A3E4C6</color>
+    <color name="_success1">#5BE6A6</color>
+    <color name="_danger">#FAFAFA</color>
+    <color name="_danger1">#F8F8F8</color>
+    <color name="_info">#FFFFFF</color>
+    <color name="_alert">#FFFFFF</color>
+    <color name="_alert1">#FFFFFF</color>
+    <color name="_action">#FFFFFF</color>
+    <color name="_allreporttopback">#2AC3A3</color>
+
+    <color name="progress_back">#22316BDF</color>
+
+
+
+
+
+
+
+</resources>

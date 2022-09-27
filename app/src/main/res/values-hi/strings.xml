@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">विभिन्न_भाषा_अनुप्रयोग</string>
+
+    <string name="nav_bar_open">Open Nav bar</string>
+    <string name="nav_bar_closed">Close Nav Bar</string>
+
+    /*some parts of booking form*/
+    <string name="bookingform_board">बुकिंग फार्म</string>
+    <string name="date_picker">sgfgsdf</string>
+    <string name="phone_number">फ़ोन*</string>
+    <string name="first_name">पहला नाम*</string>Booking Form
+    <string name="last_name">अंतिम नाम*</string>
+    <string name="height">कद</string>
+    <string name="weight">वजन</string>
+    <string name="Age">आयु</string>
+    <string name="Address">पता</string>
+    <string name="Landmark_Street">सीमाचिह्न/सड़क</string>
+    <string name="City_Town">शहर/नगर</string>
+    <string name="Pin_Code">पिन कोड</string>
+    <string name="State">राज्य</string>
+    <string name="Country">देश</string>
+    <string name="button_lang">change language</string>
+
+    <!--end of some part booking form  -->
+</resources>

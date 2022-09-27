@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">বহুগুণ_ভাষা_এপ্প</string>
+
+    <string name="nav_bar_open">Open Nav bar</string>
+    <string name="nav_bar_closed">Close Nav Bar</string>
+
+    /*some parts of booking form*/
+    <string name="bookingform_board">বুকিং প্ৰপত্ৰ</string>
+    <string name="date_picker">sgfgsdf</string>
+    <string name="phone_number">ফোন*</string>
+    <string name="first_name">প্ৰথম নাম*</string>
+    <string name="last_name">অন্তিম নাম*</string>
+    <string name="height">উচ্চতা</string>
+    <string name="weight">ওজন</string>
+    <string name="Age">বয়স</string>
+    <string name="Address">ঠিকনা</string>
+    <string name="Landmark_Street">লেণ্ডমাৰ্ক/ষ্ট্ৰীট</string>
+    <string name="City_Town">চহৰ/নগৰ</string>
+    <string name="Pin_Code">পিন কোড</string>
+    <string name="State">ৰাজ্য</string>
+    <string name="Country">দেশ</string>
+    <string name="button_lang">change language</string>
+
+    <!--end of some part booking form  -->
+</resources>

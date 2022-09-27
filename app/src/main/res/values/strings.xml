@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">multiple_language_App</string>
+
+    <string name="nav_bar_open">Open Nav bar</string>
+    <string name="nav_bar_closed">Close Nav Bar</string>
+
+    /*some parts of booking form*/
+    <string name="bookingform_board">Booking Form</string>
+    <string name="date_picker">sgfgsdf</string>
+    <string name="phone_number">Phone*</string>
+    <string name="first_name">First Name*</string>
+    <string name="last_name">Last Name*</string>
+    <string name="height">Height</string>
+    <string name="weight">weight</string>
+    <string name="Age">Age</string>
+    <string name="Address">Address</string>
+    <string name="Landmark_Street">Landmark/Street</string>
+    <string name="City_Town">City/Town</string>
+    <string name="Pin_Code">Pin Code</string>
+    <string name="State">State</string>
+    <string name="Country">Country</string>
+    <string name="button_lang">change language</string>
+
+    <!--end of some part booking form  -->
+
+
+</resources>
